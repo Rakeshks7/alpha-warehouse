@@ -1,0 +1,6 @@
+feast==0.34.0
+pandas>=1.5.0
+numpy>=1.20.0
+ta>=0.10.0
+pyarrow>=8.0.0
+joblib>=1.1.0
